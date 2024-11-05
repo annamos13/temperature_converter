@@ -1,1 +1,1 @@
-This is the exercise from the Chapter 3.5 of the **Rust Programming Language** book
+This is the exercise from the Chapter 3.5 of the **Rust Programming Language** book.
